@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.mutiaraacd.junittesting"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.mutiaraacd.junittesting"
